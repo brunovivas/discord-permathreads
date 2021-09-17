@@ -1,6 +1,6 @@
 # Discord Permathreads
 
-Prevents threads from auto-archiving after 3 days of inactivity.
+Discord bot that prevents threads from auto-archiving after 3 days of inactivity.
 
 
 ## Requirements
